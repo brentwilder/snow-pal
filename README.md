@@ -28,4 +28,4 @@ sns.boxplot(
 )
 plt.show()
 ```
-<img src="https://github.com/brentwilder/snow-pal/blob/master/docs/demo.png" width="400">
+<img src="https://github.com/brentwilder/snow-pal/blob/master/docs/demo.png" width="600">
