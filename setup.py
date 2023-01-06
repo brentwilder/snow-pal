@@ -18,7 +18,7 @@ class PyTest(Command):
 
 
 setup(
-    name="snow-pal"
+    name="snow-pal",
     packages=["snow-pal"],
     version="0.1",
     description="Snow inspired palettes for your everyday plots",
@@ -33,7 +33,7 @@ setup(
         "Development Status :: 5 - Production/Stable",
         "Environment :: Other Environment",
         "Intended Audience :: Science/Research",
-        "License :: OSI Approved :: MIT License
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Topic :: Scientific/Engineering :: Atmospheric Science",
     ],
