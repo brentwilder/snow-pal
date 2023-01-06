@@ -9,7 +9,7 @@ $ pip install snow-pal
 <img src="https://github.com/brentwilder/snow-pal/blob/master/docs/pals_v2.jpg" width="1600">
 
 
-#### Example
+### For example...
 ```{python}
 # Import typical plotting libraries
 import numpy as np
