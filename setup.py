@@ -19,12 +19,12 @@ class PyTest(Command):
 
 setup(
     name="snow-pal",
-    packages=["snow-pal"],
+    packages=[""],
     version="0.1",
     description="Snow inspired palettes for your everyday plots",
     author="Brent Wilder",
     author_email="brentwilder@boisestate.edu",
-    url="https://brentwilder.github.io/",
+    url="https://github.com/brentwilder/snow-pal",
     keywords=["snow", "plot", "winter", "graph"],
     classifiers=[
         "Programming Language :: Python",
@@ -38,12 +38,6 @@ setup(
         "Topic :: Scientific/Engineering :: Atmospheric Science",
     ],
     cmdclass={'test': PyTest},
-    long_description="""\
-Snow inspired palettes for your everyday plots
--------------------------------------------
-Snow-pal is a fast and easy-to-use color palette dictionary based on 
-real life photos from great winter locations. Try snow-pal and create
-cool snow figures to share with your colleagues. Snow-pal is compatible with
-Python 2.7x and 3.4+. 
-"""
+    long_description=" Snow-pal is a fast and easy-to-use color palette dictionary based on real life photos from great winter locations.\
+        Try snow-pal and create cool snow figures to share with your colleagues. Snow-pal is compatible with Python 2.7x and 3.4+."
 )
