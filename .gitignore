@@ -1,2 +1,3 @@
 dist/
 test.py
+snowpal/__pycache__/
