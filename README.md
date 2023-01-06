@@ -6,4 +6,4 @@ Snow-pal is a fast and easy-to-use color palette dictionary based on real life p
 $ pip install snow-pal
 ```
 
-<img src="https://github.com/brentwilder/snow-pal/blob/master/docs/pals_v1.png" width="1600">
+<img src="https://github.com/brentwilder/snow-pal/blob/master/docs/pals_v2.jpg" width="1600">
