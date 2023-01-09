@@ -10,7 +10,7 @@ $ pip install snow-pal
 
 
 ### For example...
-```{python}
+```python
 # Import typical plotting libraries
 import numpy as np
 import seaborn as sns
