@@ -33,6 +33,6 @@ def palettes(palette_str, reverse=False):
     pal = all_pals[palette_str]
 
     if reverse is True:
-        pal = pal.reverse()
+        pal.reverse()
 
     return pal
