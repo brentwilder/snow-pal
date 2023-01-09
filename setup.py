@@ -20,7 +20,7 @@ class PyTest(Command):
 setup(
     name="snow-pal",
     packages=[""],
-    version="0.1.2",
+    version="0.1.3",
     description="Snow inspired palettes for your everyday plots",
     author="Brent Wilder",
     author_email="brentwilder@boisestate.edu",
