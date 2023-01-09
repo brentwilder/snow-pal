@@ -1,3 +1,4 @@
 dist/
 test.py
 snowpal/__pycache__/
+.DS_Store

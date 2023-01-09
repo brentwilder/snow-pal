@@ -29,3 +29,5 @@ sns.boxplot(
 plt.show()
 ```
 <img src="https://github.com/brentwilder/snow-pal/blob/master/docs/demo.png" width="600">
+
+If you would like to support snow-pal or contribute to the collection you can send me your snow photo at brentwilder@boisestate.edu. Please let me know if you would like your name credited to the photo. Cheers!
